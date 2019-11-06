@@ -1,2 +1,2 @@
-# Trex
-Try this game this game is so fun that I can't tell.
+# trex
+Chrome's trex game created using p5.play
